@@ -88,7 +88,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['avatar'])) {
     </main>
 
     <footer>
-        <p>&copy; 2025</p>
+        <p>SecuriNets ISI freindly CTF</p>
     </footer>
 </body>
 </html>
